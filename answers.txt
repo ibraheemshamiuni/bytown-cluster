@@ -1,0 +1,3 @@
+Q1: The orchestrator replaced the deleted container or pod to keep the required amount running.
+Q2: Swarm is simpler to use, while K3s is a lighter version of Kubernetes that uses fewer resources.
+Q3: Kubernetes updates the pods one at a time so the website stayed running during the update.
